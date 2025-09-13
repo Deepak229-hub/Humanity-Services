@@ -1,0 +1,8 @@
+html {
+    scroll-behavior: smooth;
+    scroll-margin-top: 80px;
+}
+
+.service-card img{
+    height: 300px;
+}
