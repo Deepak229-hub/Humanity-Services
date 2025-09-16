@@ -6,3 +6,12 @@ html {
 .service-card img{
     height: 300px;
 }
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    height: 100px;
+}
